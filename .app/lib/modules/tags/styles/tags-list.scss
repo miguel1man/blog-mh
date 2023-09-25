@@ -1,0 +1,15 @@
+.tags-list {
+  display: grid;
+  gap: var(--space-2);
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  align-items: center;
+}
+
+#app\:sidebar\:section\:tags,
+.nav-section [aria-labelledby="app:sidebar:section:tags"] {
+  display: none;
+}
+
+.app-layout__sidebar-inner {
+  height: 100%;
+}
