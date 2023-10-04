@@ -1,7 +1,7 @@
 ---
 title: "Vivimos en una simulación"
 tags:
-  - Física
+  - Filosofía
 ---
 > _Si se dan estos 3 puntos, la conclusión es que vivimos en una simulación._
 > 

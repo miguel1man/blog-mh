@@ -1,8 +1,11 @@
 ---
-title: Inicio
-headline: Miguel Angel Huamán
+title: Index
+headline: Web personal
 panel: false
 ---
+
+> **Me encanta escribir código para máquinas y, a veces, también escribo para las personas.** 
+> _Miguel Angel Huamán_
 
 ### ¿Por qué me gusta escribir?
 
@@ -12,13 +15,13 @@ panel: false
 
 - [[Cambio de carrera|¿Cómo cambiar de carrera a los 30?]]
 - [[Andino DAO Hackathon 2022|Andino DAO Hackathon]]
-- [[PlatziTalks Lima 2022|Platzi Talks Lima 2022]]
+- [[PlatziTalks Lima 2022|Platzi Talks Lima]]
 
-### Filosofía de la inteligencia artificial
+### ¿Qué es la ética de la inteligencia artificial?
 
-- [[Las máquinas calculan pero no piensan|Las máquinas calculan pero no piensan]]
-- [[El giro dataísta|El giro dataísta]]
+- [[Las máquinas calculan pero no piensan|Las máquinas calculan muy rápido, pero no piensan]]
+- [[El giro dataísta]]
 
 ### ¿Por qué es mejor diseñar antes de programar?
 
-- [[Por qué nos enamoramos de nuestras soluciones|Por qué nos enamoramos de nuestras soluciones]]
+- [[Por qué nos enamoramos de nuestras soluciones|¿Por qué nos enamoramos tanto de nuestras propias soluciones?]]
