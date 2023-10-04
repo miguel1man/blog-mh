@@ -4,7 +4,8 @@ headline: Web personal
 panel: false
 ---
 
-> **Me encanta escribir código para máquinas y, a veces, también escribo para las personas.** 
+> **Me encanta escribir código para máquinas y, a veces, también escribo historias para personas.** 
+> 
 > _Miguel Angel Huamán_
 
 ### ¿Por qué me gusta escribir?

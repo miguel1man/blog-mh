@@ -11,7 +11,7 @@ module.exports = function () {
     description: "Notes app",
     ...custom,
     theme: {
-      color: "sky",
+      color: "amber",
       ...custom.theme,
     },
     customProperties: {
@@ -24,10 +24,10 @@ module.exports = function () {
       ...custom.sidebar,
     },
     panel: {
-      tableOfContents: true,
+      tableOfContents: false,
       customProperties: true,
       tags: true,
-      incomingLinks: true,
+      incomingLinks: false,
       outgoingLinks: true,
       externalLinks: true,
       ...custom.panel,

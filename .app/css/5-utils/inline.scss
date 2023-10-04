@@ -1,5 +1,6 @@
 .inline {
-  display: flex;
+  // display: flex;
+  display: none;
   justify-content: flex-start;
   gap: var(--inline, var(--space-2));
 }
