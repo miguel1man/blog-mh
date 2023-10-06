@@ -4,6 +4,6 @@
 2. `npm i`
 3. `npm start`
 
-## Deply
+## Deploy
 
 - [miguelhuaman.com](miguelhuaman.com)
