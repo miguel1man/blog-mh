@@ -1,5 +1,5 @@
 ---
-title: Index
+title: Home
 headline: Web personal
 panel: false
 ---

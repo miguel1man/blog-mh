@@ -25,4 +25,4 @@ Pero aunque las máquinas logren escribir con un estilo superior a todos los pre
 
 ---
 
-- [Enlace a la publicación original en Substack](https://miguel1man.substack.com/p/why-cant-we-help-but-fall-in-love)
+- [Enlace a la publicación original en Substack](https://miguel1man.substack.com/p/why-you-should-still-learn-to-write)
