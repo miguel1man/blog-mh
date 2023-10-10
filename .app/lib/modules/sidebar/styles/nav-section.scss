@@ -4,7 +4,7 @@
 
   &:first-of-type,
   &.nav-section--continued {
-    margin-block-start: var(--space-4);
+    margin-block-start: 0;
   }
 
   &:last-of-type {

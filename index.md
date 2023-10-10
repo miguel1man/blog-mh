@@ -1,12 +1,10 @@
 ---
 title: Home
-headline: Web personal
+headline: Miguel Angel Huamán
 panel: false
 ---
 
-> **Me encanta escribir código para máquinas y, a veces, también escribo historias para personas.** 
-> 
-> _Miguel Angel Huamán_
+> Me encanta escribir código para las máquinas y, a veces, también escribo historias para las personas.
 
 ### ¿Por qué me gusta escribir?
 
@@ -18,7 +16,7 @@ panel: false
 - [[Andino DAO Hackathon 2022|Andino DAO Hackathon]]
 - [[PlatziTalks Lima 2022|Platzi Talks Lima]]
 
-### ¿Qué es la ética de la inteligencia artificial?
+### ¿Qué es ética de la inteligencia artificial?
 
 - [[Las máquinas calculan pero no piensan|Las máquinas calculan muy rápido, pero no piensan]]
 - [[El giro dataísta]]
