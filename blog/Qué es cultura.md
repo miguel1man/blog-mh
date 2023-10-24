@@ -8,9 +8,8 @@ tags:
 >
 > _Cultura no es simplemente leer. Cultura es que esa lectura se aproveche y la aproveches para vivir al máximo de posibilidades._
 >
-> **Anthony Polanco. 0:13**
-> 
+> **Anthony Polanco. 0:12**
+>
 > **https://www.youtube.com/watch?v=IkBFrKd5uO0**
 
-***
-
+---
