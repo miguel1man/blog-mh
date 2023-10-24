@@ -1,6 +1,6 @@
 module.exports = (theme) => ({
   "font-family-default":
-    'ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"',
+    'Barlow, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"',
   "font-family-mono":
     'ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace',
 
@@ -13,12 +13,12 @@ module.exports = (theme) => ({
   "font-size-fluid-0": "clamp(1rem, calc(0.96rem + 0.22vw), 1.13rem)",
   "font-size-fluid-1": "clamp(1.13rem, calc(1.08rem + 0.24vw), 1.27rem)",
   "font-size-fluid-2": "clamp(1.27rem, calc(1.21rem + 0.28vw), 1.42rem)",
-  "font-size-fluid-3": "clamp(1.72rem, calc(1.66rem + 0.31vw), 1.9rem)", //h2
+  "font-size-fluid-3": "clamp(1.42rem, calc(1.36rem + 0.31vw), 1.6rem)",
   "font-size-fluid-4": "clamp(1.6rem, calc(1.53rem + 0.35vw), 1.8rem)",
   "font-size-fluid-5": "clamp(1.8rem, calc(1.72rem + 0.39vw), 2.03rem)",
-  "font-size-fluid-6": "clamp(2.23rem, calc(2.14rem + 0.44vw), 3.08rem)", //h1
-  "font-size-fluid-7": "clamp(2.28rem, calc(2.18rem + 0.5vw), 2.57rem)",
-  "font-size-fluid-8": "clamp(2.57rem, calc(2.45rem + 0.56vw), 2.89rem)",
+  "font-size-fluid-6": "clamp(2.03rem, calc(1.94rem + 0.44vw), 2.28rem)",
+  "font-size-fluid-7": "clamp(2.13rem, calc(1.75rem + 1.98vw), 3.28rem)",
+  "font-size-fluid-8": "clamp(2.41rem, calc(1.96rem + 2.23vw), 3.69rem)",
 
   "font-weight-normal": "400",
   "font-weight-medium": "500",
