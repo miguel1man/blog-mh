@@ -19,7 +19,7 @@ panel: false
 ### ¿Qué es ética de la inteligencia artificial?
 
 - [[Las máquinas calculan pero no piensan|Las máquinas calculan muy rápido, pero no piensan]]
-- [[El giro dataísta]]
+- [[Cuál es el siguiente giro|¿Cuál es el siguiente giro?]]
 
 ### ¿Por qué es mejor diseñar antes de programar?
 
