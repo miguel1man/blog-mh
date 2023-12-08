@@ -4,6 +4,9 @@ date: 2023-07-24
 tags:
   - Networking
 ---
+
+![Platzi - Student speakers 2022](images/platzi-student-speakers-2022.jpg)
+
 El año pasado tuve la oportunidad de exponer en mi primera charla por Zoom gracias a Platzi.
 
 Decidí compartir mi propia experiencia y hablar de un tema que hubiera deseado escuchar cuando tenía 29 años: "Sí es posible cambiar de carrera después de los 30".

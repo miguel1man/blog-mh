@@ -4,6 +4,9 @@ date: 2022-11-14
 tags:
   - Networking
 ---
+
+![PlatziTalks - Lima 2022](images/platzi-talks-lima-2022.jpg)
+
 Yo no sabía hacer networking, porque no hablé con nadie en los 2 primeros eventos tech a los que asistí presencialmente.
 
 Escuchaba a los expositores...
