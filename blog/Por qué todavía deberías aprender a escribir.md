@@ -5,6 +5,9 @@ tags:
   - Escritura
   - Inteligencia-Artificial
 ---
+
+![Aprender a escribir con IA](images/aprender-escribir.jpg)
+
 Yo aprendí lo que era "inteligencia artificial" en los noventa, cuando fue noticia que el campeón mundial de ajedrez había perdido una partida contra una máquina. Después de esa derrota, muchos predijeron que las personas dejarían de jugar ajedrez, ya que no tendría sentido competir contra una máquina que siempre te ganará. Sin embargo, ha ocurrido lo contrario, el ajedrez es más popular hoy en día que nunca antes.
 
 ## Jugadores artificiales
@@ -25,4 +28,4 @@ Pero aunque las máquinas logren escribir con un estilo superior a todos los pre
 
 ---
 
-- [Enlace a la publicación original en Substack](https://miguel1man.substack.com/p/why-you-should-still-learn-to-write)
+- [Enlace a mi publicación original en Substack](https://miguel1man.substack.com/p/why-you-should-still-learn-to-write)

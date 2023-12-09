@@ -23,4 +23,4 @@ panel: false
 
 ### ¿Por qué es mejor diseñar antes de programar?
 
-- [[Por qué nos enamoramos de nuestras soluciones|¿Por qué nos enamoramos tanto de nuestras propias soluciones?]]
+- [[Por qué nos enamoramos de nuestras soluciones|¿Por qué nos enamoramos tanto de nuestras propias ideas?]]

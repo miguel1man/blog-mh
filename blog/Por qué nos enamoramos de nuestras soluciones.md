@@ -1,11 +1,14 @@
 ---
-title: "¿Por qué nos enamoramos tanto de nuestras propias soluciones?"
+title: "¿Por qué nos enamoramos tanto de nuestras propias ideas?"
 date: 2023-05-31
 tags:
   - Producto
   - Product-Design
 ---
-Como creadores, solemos enamorarnos de nuestras propias soluciones porque nos toma mucho tiempo y energía para pensar y construir una solución, por lo que es muy fácil olvidar que apegarnos a "nuestra solución" no es el objetivo final. Sino que la finalidad es resolver un problema real para una persona real.
+
+![Enamorarse de las ideas 1](images/enamorarse-ideas-1.jpg)
+
+Como creadores, solemos enamorarnos de nuestras propias soluciones porque nos toma mucho tiempo y energía conseguirlas, por lo que es muy fácil olvidar que apegarnos a "nuestra solución" no es el objetivo final. Sino que la finalidad es resolver un problema real para una persona real.
 
 Deberíamos enfocarnos más en el proceso que nos lleva a la solución. Es en el proceso donde la magia ocurre. Ahí es donde entendemos el problema, el usuario y el mercado.
 
@@ -17,9 +20,11 @@ La inteligencia artificial tiene un problema similar. En una charla sobre IA, un
 
 Sé que es fácil definir qué es un mal ejemplo, mientras que es muy complicado definir cuál sí es un "buen" ejemplo. Pero el proceso para llegar a una solución a tus problemas solo se puede llegar preguntandonos constantemente sobre los problemas que queremos resolver.
 
+![Enamorarse de las ideas 2](images/enamorarse-ideas-2.jpg)
+
 ### Uno mismo tiene que recopilar historias y datos de los consumidores para entender sus problemas y deseos
 
-Cuando se desarrolla un producto, es importante entender qué es lo que el usuario quiere y qué es lo que necesita. Esto solo se puede llegar recopilando datos, historias desde la perspectiva del usuario. 
+Cuando se desarrolla un producto, es importante entender qué es lo que el usuario quiere y qué es lo que necesita. Esto solo se puede llegar recopilando datos, historias desde la perspectiva del usuario.
 
 Mientras que los datos te ayudan a identificar las tendencias y patrones, entendiendo al usuario, puedes desarrollar un producto que resuelve un problema real, y aporta un valor real.
 
